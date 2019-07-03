@@ -27,4 +27,4 @@ git reset --hard <to_commit>
 
 git revert <commit>
 
-gitignore
+gitignore:
