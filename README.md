@@ -18,3 +18,9 @@ git reset -- tenfile:
 git checkout -b <branch> (branching) : Tao nhanh trong git
 git checkout <branch> : Ghep nhanh moi
 git merge
+
+
+
+git reset --soft <to_commit>
+git reset --mixed <to_commit>
+git reset --hard <to_commit>
