@@ -28,4 +28,20 @@ git reset --hard <to_commit>
 git revert <commit>
 
 gitignore:
-nguyen sy hiep
+
+
+
+
+clone va pull
+
+su dung: git clone ten duong dan vao (de tai ve)
+muon tai thay doi su dung pull: git pull
+
+
+
+//Qua trinh PULL require
+1. git checkout -b <feature_branch>
+2. git push orgin <branch>
+3. create a pull require on Githud
+4. review code 
+5. merge to master
